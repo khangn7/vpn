@@ -18,3 +18,9 @@ input {
     width: 50%;
     outline:none;
 }
+
+#get-button {
+    margin: 10px;
+    margin-left: auto;
+    padding: 10px;
+}
